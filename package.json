@@ -1,0 +1,29 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Aplicación multiplataforma en Electron",
+  "main": "mail.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosdho/appElectron.git"
+  },
+  "keywords": [
+    "Electron",
+    "Escritorio",
+    "Multiplataforma",
+    "Node.Js",
+    "Chromium"
+  ],
+  "author": "Marcos Hernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosdho/appElectron/issues"
+  },
+  "homepage": "https://github.com/marcosdho/appElectron#readme",
+  "devDependencies": {
+    "electron": "^11.1.1"
+  }
+}
